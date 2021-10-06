@@ -136,7 +136,7 @@ public class PersonaService {
         do {
 
             System.out.println("===================");
-            System.out.println("Sistema de Adopcion");
+            System.out.println("Bienvenido al Sistema de Adopción");
             System.out.println("-------------------");
             System.out.println("Ingresar personas al sistema (Opc 1) \n"
                     + "Ingresar perros al sistema (Opc 2) \n"
